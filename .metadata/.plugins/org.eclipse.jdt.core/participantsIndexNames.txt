@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\Spring\ddasum\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3415172682.index
+\ddasum\src\main\java
+D:\Spring\ddasum\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1204603864.index
+\ddasum\src\main\java
+D:\Spring\ddasum\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3907950411.index
+\ddasum\src\main\java
